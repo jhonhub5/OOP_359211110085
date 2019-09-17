@@ -83,6 +83,9 @@ public class StudentApp {
         else System.out.print("0.00");
         double gpa = (g1+g2+g3)/3;
 
+
+
+
         Student std1 = new Student(a,b,c,gpa);
          System.out.print(std1.Show());
 
