@@ -7,8 +7,8 @@ public class mySuperCar {
 
         Scanner sc = new Scanner(System.in);
 
-      System.out.println("carbrand");
-      String a = sc.nextLine();
+        System.out.println("carbrand");
+        String a = sc.nextLine();
         System.out.println("carcolor");
         String b = sc.nextLine();
         System.out.println("carengine");

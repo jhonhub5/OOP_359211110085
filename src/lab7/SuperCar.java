@@ -35,9 +35,7 @@ public class SuperCar {
     public void setCarenginesize(String newcarenginesize){
         this.carenginesize = newcarenginesize;
     }
-    public String getMaxspeed(){
-        return this.maxspeed;
-    }
+    public String getMaxspeed(){ return this.maxspeed; }
     public void setMaxspeed(String newmaxspeed){
         this.maxspeed = newmaxspeed;
     }
